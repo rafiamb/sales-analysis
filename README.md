@@ -21,6 +21,8 @@ The Python notebook used for data cleaning, EDA, profitability analysis, SQL que
 
 Maven Toys' database contains 4 tables covering products, stores, daily sales transactions, and current inventory levels.
 
+![ERD Diagram](maventoys_erd.png)
+
 | Table | Description | Rows |
 |---|---|---|
 | `sales` | Daily transaction records with product and store references | 829,262 |
