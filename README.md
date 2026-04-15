@@ -67,7 +67,7 @@ Below is the overview page from the Tableau dashboard. The full interactive dash
 - **2023 outperforms 2022 in every single month** (January through September, the extent of available 2023 data), indicating the business is growing year over year across all store types and categories
 - The **2000-2004 store cohort** generates the highest average profit per store at $88,489, outperforming newer cohorts on a per-store basis and likely reflecting the prime site selection decisions made during Maven Toys' earliest expansion phase
 
-![Cohort Analysis](maventoys_cohort.png)
+<img src="maventoys_cohort.png" width="650">
 
 ---
 
